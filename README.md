@@ -6,10 +6,10 @@
 - 이 글은 김민범 훈련생이 작성한 README.MD를 일부 참고하여 제작하였다. ([김민범 훈련생 Github](https://github.com/sou05091/2023-ICTBusanHakaton#readme))
   
 ## 1. Introduction
-- 주제 : 인삼 년근 판독 및 등급 식별 AI 모델 개발, 인삼 부위 판별 AI 모델 개발, 웹 서비스 개발
-- 주제 선정 이유 : 이미 많은 AI서비스가 제공되고 있는 지금 틈새 시장을 공략하기 위해 이번 주제 선정
-- 활용 데이터 : [인삼 년근 판독 및 등급 식별을 위한 인공지능 학습데이터(AI Hub)](https://www.aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71426)
-- 기간: 2023.08.09 ~ 08.10(무박 2일로 진행)
+- Topic : 인삼 년근 판독 및 등급 식별 AI 모델 개발, 인삼 부위 판별 AI 모델 개발, 웹 서비스 개발
+- Reason : 이미 많은 AI서비스가 제공되고 있는 지금 틈새 시장을 공략하기 위해 이번 주제 선정
+- Data : [인삼 년근 판독 및 등급 식별을 위한 인공지능 학습데이터(AI Hub)](https://www.aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71426)
+- Period : 2023.08.09 ~ 08.10(무박 2일로 진행)
 
 - 상세 프로젝트 설명 및 기술 설명  [<img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/>
 보러가기](https://midi-mind-784.notion.site/8-ICT-PPT-3210e50945d14e5dbd535fd11a760b2c?pvs=4)
