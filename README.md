@@ -16,7 +16,7 @@
 
 ## 2. Team 백초마을 
 - 팀원은 다음과 같이 구성되었다. <br/>
-|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/70638717?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/86204430?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/129818881?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/98063854?v=4">|
+|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/70638717?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/86204430?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/129818881?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/98063854?v=4">| <br/>
 | :---------------------------------: | :-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 |                AI 모델 개발         |           AI 모델 개발                |                AI 모델 개발         |           웹 서비스 개발             | 
 |             김민범                  |          최호진                      |                  하성진              |          김재민                     |        
