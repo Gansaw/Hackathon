@@ -14,7 +14,7 @@ I bought a laptop to participate the competition, and the following process is r
 
 ### Python Tools (select one)
 
-+ [Colab](https://colab.research.google.com/?utm_source=scs-index)(recommended)
++ [Colab](https://colab.research.google.com/?utm_source=scs-index) (recommended)
   
 + Jupyter notebook
   
