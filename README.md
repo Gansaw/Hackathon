@@ -4,15 +4,18 @@
 This is where Choi Ho-jin, a third-term K-Digital trainee at Pusan National University, posts his work while participating in the hackathon competition.
 
 ## Getting Started
-정상적으로 프로그램을 동작하게 하기 위해서는 다음과 같은 과정을 거쳐야 합니다.
+대회에 참여하기 위해 노트북을 구비하였고 노트북에 프로그램을 동작하기 위해 다음과 같은 프로세스를 진행하여야 합니다.
 
-Before operating program, you need to accomplish the following step.
+I bought a laptop to participate the competition, and the following process is required to run the program on the laptop.
 
 ### Prerequired
 + [Python](https://www.python.org/downloads/release/python-3109/) (3.10.9 ver)
 + [Anaconda](https://www.anaconda.com/download) (2023.03-1 ver)
 
 ### Python Tools (select one)
+
++ [Colab(recommended)](https://colab.research.google.com/?utm_source=scs-index)
++ 
 + Jupyter notebook (recommeded)
   
     ＊  &nbsp;  &nbsp;  install jupyter notebook : anaconda powershell => pip install jupyer notebook
@@ -20,7 +23,6 @@ Before operating program, you need to accomplish the following step.
     ＊  &nbsp;  &nbsp;  open jupyter notebook : anaconda powershell => jupyter notebook
        
 + [Visual studio code](https://code.visualstudio.com/download)
-+ [Colab](https://colab.research.google.com/?utm_source=scs-index)
 
     ＊ &nbsp;&nbsp; require google account
   
