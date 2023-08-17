@@ -18,7 +18,7 @@
 |<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/70638717?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/86204430?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/129818881?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/98063854?v=4">|
 | :---------------------------------: | :-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 |                AI 모델 개발         |           AI 모델 개발                |                AI 모델 개발         |           웹 서비스 개발             | 
-|          팀장 김민범                  |        팀원 최호진                      |               팀원 하성진              |         팀원 김재민            |        
+|          팀장 김민범                |            팀원 최호진                |               팀원 하성진            |              팀원 김재민            |        
 | [GitHub](https://github.com/sou05091/)  | [GitHub](https://github.com/Gansaw/)  | [GitHub](https://github.com/JaeMin1130)  | [GitHub](https://github.com/JaeMin1130)|
 
 ## 3. 개발 일지
