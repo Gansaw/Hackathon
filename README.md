@@ -1,7 +1,7 @@
-# Python Study
-이곳은 부산대학교 K-Digital 3기 훈련생 최호진이 Python을 공부하면서 만든 작업물을 게시하는 곳입니다.
+# Hackathon
+이곳은 부산대학교 K-Digital 3기 훈련생 최호진이 해커톤 대회를 참여하면서 진행한 작업들을 게시하는 곳입니다.
 
-This is a place where Choi Ho-jin, a 3rd-term K-Digital trainee at Pusan National University, uploads his work while studying Python.
+This is where Choi Ho-jin, a third-term K-Digital trainee at Pusan National University, posts his work while participating in the hackathon competition.
 
 ## Getting Started
 정상적으로 프로그램을 동작하게 하기 위해서는 다음과 같은 과정을 거쳐야 합니다.
