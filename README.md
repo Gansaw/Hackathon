@@ -1,5 +1,11 @@
 ﻿# 제 8회 부산 ICT 융합 해커톤 대회 참가 프로젝트
-## 1. 프로젝트 소개 
+
+## 0. Brief
+- K-Digital 과정을 진행하던 중 김민범 훈련생이 찾아와서 해커톤 대회 참여 의사를 물어보았다.
+- 데이터 분석가를 꿈꾸던 나에게 있어서 좋은 기회라 생각하였고 대회 참여를 결심하게 되었다.
+- 이 글은 김민범 훈련생이 작성한 README.MD를 일부 참고하여 제작하였다. [김민범 해커톤 README.MD](https://github.com/sou05091/2023-ICTBusanHakaton#readme)
+  
+## 1. Introduction
 - 주제 : 인삼 년근 판독 및 등급 식별 AI 모델 개발, 인삼 부위 판별 AI 모델 개발, 웹 서비스 개발
 - 주제 선정 이유 : 이미 많은 AI서비스가 제공되고 있는 지금 틈새 시장을 공략하기 위해 이번 주제 선정
 - 활용 데이터 : [인삼 년근 판독 및 등급 식별을 위한 인공지능 학습데이터(AI Hub)](https://www.aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71426)
@@ -22,27 +28,3 @@
 - 08.04 ~ 08.08 : YOLOv5 데이터 전처리 (txt파일 생성) 및 학습
 - 08.09 ~ 08.10 : 발표 및 PPT작성
 - 08.16 : flask 서버 구축 및 웹사이트 제작
-
-## 4. 사용 기술
-<div align="center">
-  <p>
-    <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov5/v70/splash.png"></a>
-  </p>
-<br>
-
-<div>
-    <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
-    <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
-    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-    <br>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  </div>
-  </div>
-
-## 5. 느낀점
-- 첫 해커톤 대회를 팀장으로 많은 부담감을 가지고 하다보니 부족한 부분들이 많았음
-- 마지막날 다른 팀들의 최종 결과물을 보니 우리팀 프로젝트 완성도가 너무 부족하다고 느꼈음
-- 이번 해커톤 대회에서는 AI, 웹서비스 기술 보다 사업성및 프로젝트 완성도를 많이 보았음
-- 모든 팀원들이 아쉽다고 생각하여 내년 해커톤 대회에도 참가할 계획
