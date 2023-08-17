@@ -15,7 +15,7 @@ I bought a laptop to participate the competition, and the following process is r
 ### Python Tools (select one)
 
 + [Colab(recommended)](https://colab.research.google.com/?utm_source=scs-index)
-+ 
+  
 + Jupyter notebook (recommeded)
   
     ＊  &nbsp;  &nbsp;  install jupyter notebook : anaconda powershell => pip install jupyer notebook
@@ -28,22 +28,9 @@ I bought a laptop to participate the competition, and the following process is r
   
     ＊ &nbsp;&nbsp; do not need to install
 
-+ [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download/?section=windows) (2022.2.1 ver)
-+ [Thonny](https://thonny.org/) (4.11 ver)
-
 ### Not required but recommended
 + [D2 Coding Font](https://github.com/naver/d2codingfont)
 
-### Import
-+ os
-+ numpy
-+ pandas
-+ matplotlib
-+ requests
-+ BeautifulSoup
-+ datetime
-+ sklearn
-+ tensorflow
 
 ### License
 이 프로젝트는 MIT 라이선스가 적용되고 있습니다. 세부사항은 LICENSE.md를 참고하세요.
