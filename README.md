@@ -21,7 +21,7 @@
 |          팀장 김민범                |            팀원 최호진                |               팀원 하성진            |              팀원 김재민            |        
 | [GitHub](https://github.com/sou05091/)  | [GitHub](https://github.com/Gansaw/)  | [GitHub](https://github.com/JaeMin1130)  | [GitHub](https://github.com/JaeMin1130)|
 
-## 3. 개발 일지
+## 3. Develop Log
 - 08.01 : 주제 선정 회의 진행
 - 08.02 : 역할 분담 및 개발 계획 수립
 - 08.03 : 데이터 환경 구성(Colab)
