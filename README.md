@@ -3,7 +3,7 @@
 ## 0. Brief
 - K-Digital 과정을 진행하던 중 김민범 훈련생이 찾아와서 해커톤 대회 참여 의사를 물어보았다.
 - 데이터 분석가를 꿈꾸던 나에게 있어서 좋은 기회라 생각하였고 대회 참여를 결심하게 되었다.
-- 이 글은 김민범 훈련생이 작성한 README.MD를 일부 참고하여 제작하였다. [김민범 해커톤 README.MD](https://github.com/sou05091/2023-ICTBusanHakaton#readme)
+- 이 글은 김민범 훈련생이 작성한 README.MD를 일부 참고하여 제작하였다. ([김민범 훈련생 Github](https://github.com/sou05091/2023-ICTBusanHakaton#readme))
   
 ## 1. Introduction
 - 주제 : 인삼 년근 판독 및 등급 식별 AI 모델 개발, 인삼 부위 판별 AI 모델 개발, 웹 서비스 개발
