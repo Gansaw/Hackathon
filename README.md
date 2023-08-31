@@ -9,7 +9,7 @@
 보러가기](https://midi-mind-784.notion.site/8-ICT-PPT-3210e50945d14e5dbd535fd11a760b2c?pvs=4)
 
 ## 2. 팀원 
-|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/70638717?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/86204430?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/129818881?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/98063854?v=4">|
+|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/86204430?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/70638717?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/129818881?v=4">|<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/98063854?v=4">|
 | :---------------------------------: | :-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 |                AI 모델 개발         |           AI 모델 개발                |                AI 모델 개발         |           웹 서비스 개발             | 
 |             최호진                  |          김민범                      |                  하성진              |          김재민                     |        
