@@ -34,8 +34,7 @@
 <div>
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
     <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
-    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-    <br>
+    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>    
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   </div>
@@ -45,3 +44,4 @@
 - 경험 부족 : 처음 대회에 참여하다 보니 시간 배분의 어려움이 있었고 상대적으로 전문성이 부족하다는 것을 느낌
 - 주제 선정 : 인삼이라는 생소한 주제이다 보니 사람들의 이목을 끄는데 부족함을 느낌
 - 관점 전환 : 팀별로 다양한 아이디어를 공유하고 멘토의 조언을 경청하여 안목을 넓히는 데 도움
+- 티키 타카 : 다양한 모델을 연구해보고 많은 학습을 통해 모델 개발에 대한 자신감이 상승하였고 팀원 간 의사소통의 중요성을 느낌
