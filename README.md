@@ -45,3 +45,8 @@
 - 주제 선정 : 인삼이라는 생소한 주제이다 보니 사람들의 이목을 끄는데 부족함을 느낌
 - 관점 전환 : 팀별로 다양한 아이디어를 공유하고 멘토의 조언을 경청하여 안목을 넓히는 데 도움
 - 티키 타카 : 다양한 모델을 연구해보고 많은 학습을 통해 모델 개발에 대한 자신감이 상승하였고 팀원 간 의사소통의 중요성을 느낌
+
+### 6. License
+이 프로젝트는 MIT 라이선스가 적용되고 있습니다. 세부사항은 LICENSE.md를 참고하세요.
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
